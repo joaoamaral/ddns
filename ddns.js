@@ -1,6 +1,5 @@
 var colors = require('colors');
 var request = require('request');
-var externalip = require('externalip');
 fs = require('fs')
 
 console.log('Dynamic DNS Client for FreeDNS'.bold);
